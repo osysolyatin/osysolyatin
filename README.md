@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Oleg (@osysolyatin)
+- 👋 Hi, I’m Oleg (@osa78)
 - 👀 I’m interested in Kotlin and Adroid apps development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android apps development
+- 👀 I’m interested in Frontend Web development (HTML, CSS, JS)
+- 🌱 I’m currently learning Kotlin, JS, HTML/CSS
+- 💞️ I’m looking to new friends in IT-industry
 - 📫 How to reach me : by e-mail: osysolyatin@gmail.com
 
 <!---
